@@ -13,11 +13,11 @@ Projek ini adalah projek technical test yang diberikan oleh perusahaan. Projek i
 ## Instalasi
 1. Clone repository ini
 ```bash
-git clone https://github.com/ahmadlaiq/technical-test-fe.git
+git clone https://github.com/ahmadlaiq/vue-crud.git
 ```
 2. Masuk ke direktori projek
 ```bash
-cd technical-test-fe
+cd vue-crud
 ```
 3. Install dependencies
 ```bash

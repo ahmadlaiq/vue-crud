@@ -1,8 +1,4 @@
-<!-- buatkan saya readme tentang projek technical test vuejs -->
-# Technical Test FrontEnd
-
-## Deskripsi
-Projek ini adalah projek technical test yang diberikan oleh perusahaan. Projek ini dibuat menggunakan VueJS dan TailwindCSS.
+# Vue CRUD Starter
 
 ## Fitur
 - CRUD data dari API
@@ -10,8 +6,8 @@ Projek ini adalah projek technical test yang diberikan oleh perusahaan. Projek i
 - Pagination data dari API
 - Search data dari API
 
-## Instalasi
-1. Clone repository ini
+## Instalasi dan Start Development
+1. Clone repositori:
 ```bash
 git clone https://github.com/ahmadlaiq/vue-crud.git
 ```
